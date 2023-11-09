@@ -1,0 +1,3 @@
+repository='https://gitlab.au.dk/ausa/cmake_common.git'
+module=''
+tag='origin'

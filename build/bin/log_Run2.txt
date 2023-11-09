@@ -1,0 +1,9 @@
+RUN #2 
+Recorded in:		 0.59 s 
+Bad/Good data chunks:	 0/0 
+Raw/Good signals:	 34069/7747
+
+Module	Channel        Good      Out-of-range   Pile-up   Rate(cps)	Comment
+
+     2	     12	        3817            0            0    6483.89	INDiE
+     2	     13	        3930            0            0    6675.84	INDiE
